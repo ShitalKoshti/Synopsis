@@ -1,0 +1,27 @@
+Functional Specification:
+▪ In Actual practice the only method is to do a lab test every time needed and no history is available for that region.Prediction/Suggesting Crops for specific Soil According to its nutrient composition using Data mining Techniques.
+▪User can edit, add and modify the dataset as per his needs.
+▪This dataset would be made open source.
+File format
+▪.CSV
+Technical aspect:
+Hw
+▪ Ram 8GB; HDD 20GB available; GPU 4GB
+Os
+▪ Linux & Windows.
+
+Performance
+Programming lang and technology
+▪ Python & ML algorithm.
+
+IDE to use
+▪ Command line/ Terminal
+Technical Specification:
+Hardware:
+▪ Ram 8GB; HDD 20GB available; GPU 4GB
+Os:
+▪ Linux & Windows.
+Programming language and technology:
+▪ Python & ML algorithm.
+IDE to use
+▪ Command line/ Terminal
